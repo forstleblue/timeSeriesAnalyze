@@ -17,7 +17,7 @@ from matplotlib.pylab import rcParams
 rcParams['figure.figsize'] = 15, 6
 
 
-
+//Git test line
 
 # loading data
 
@@ -33,6 +33,7 @@ print ts.head(12)
 
 print ts.dtypes
 
+/* Github Commit testing */
 ####################################################
 ##
 ##		DO EXPLORATORY ANALYSIS
@@ -102,6 +103,7 @@ results = mod.fit()
 print results.summary()
 
 //I added the following line only testing Gighub.
+//This line is also for Github Testing
 ####################################################
 ##
 ##		FORECAST
