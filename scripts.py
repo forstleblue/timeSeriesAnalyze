@@ -107,7 +107,7 @@ print results.summary()
 ##		FORECAST
 ##
 ####################################################
-
+//Git test line for commit
 predVals = results.predict(239, 251, typ='levels')
 print predVals
 
