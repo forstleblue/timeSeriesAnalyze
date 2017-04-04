@@ -102,6 +102,7 @@ mod = ARIMA(sp500_TR, order = (0, 1, 1), freq = 'M')
 results = mod.fit()
 print results.summary()
 
+//I added the following line only testing Gighub.
 ####################################################
 ##
 ##		FORECAST
