@@ -17,11 +17,7 @@ from matplotlib.pylab import rcParams
 rcParams['figure.figsize'] = 15, 6
 
 
-####################################################
-##
-##		LOAD DATA
-##
-####################################################
+
 
 # loading data
 
