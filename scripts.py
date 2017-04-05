@@ -3,10 +3,7 @@
 ##		IMPORT MODULES
 ##
 ####################################################
-###Add github merge test
 
-####################################################
-###Add github merge test
 
 //Add first line for git merge testing
 //Add second line for git merge testing.
