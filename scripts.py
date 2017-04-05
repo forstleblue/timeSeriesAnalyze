@@ -3,10 +3,6 @@
 ##		IMPORT MODULES
 ##
 ####################################################
-
-
-
-
 //Add New Line
 //New Line
 //This line is only for merge test
@@ -26,9 +22,6 @@
 
 //Add first line for git merge testing
 //Add second line for git merge testing.
-
-
-
 ####################################################
 
 
