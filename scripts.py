@@ -8,6 +8,9 @@
 ####################################################
 ###Add github merge test
 
+//This line is only for merge test
+//Second line
+
 import pandas as pd
 import numpy as np
 import statsmodels.api as sm
