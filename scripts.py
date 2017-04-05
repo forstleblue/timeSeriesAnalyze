@@ -3,13 +3,16 @@
 ##		IMPORT MODULES
 ##
 ####################################################
-###Add github merge test
 
-####################################################
-###Add github merge test
 
 //This line is only for merge test
 //Second line
+
+=======
+//Add first line for git merge testing
+//Add second line for git merge testing.
+
+####################################################
 
 import pandas as pd
 import numpy as np
