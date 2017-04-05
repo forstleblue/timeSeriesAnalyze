@@ -4,6 +4,10 @@
 ##
 ####################################################
 
+//Add first line for git merge testing
+//Add second line for git merge testing.
+
+####################################################
 import pandas as pd
 import numpy as np
 import statsmodels.api as sm
