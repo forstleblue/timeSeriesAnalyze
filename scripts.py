@@ -4,6 +4,10 @@
 ##
 ####################################################
 ###Add github merge test
+
+####################################################
+###Add github merge test
+
 import pandas as pd
 import numpy as np
 import statsmodels.api as sm
