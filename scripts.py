@@ -5,9 +5,22 @@
 ####################################################
 
 
+
 //Git hub test merge
 
+
+
+
+//This line is only for merge test
+//Second line
+
+
+//Add first line for git merge testing
+//Add second line for git merge testing.
+
+
 ####################################################
+
 
 import pandas as pd
 import numpy as np
@@ -42,7 +55,7 @@ print ts.dtypes
 ####################################################
 ##
 ##		DO EXPLORATORY ANALYSIS
-##
+##//Explornation
 ####################################################
 
 plt.plot(ts)
