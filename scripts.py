@@ -6,6 +6,7 @@
 
 
 
+
 //Add New Line
 //New Line
 //This line is only for merge test
@@ -13,6 +14,20 @@
 
 //Git Second line
 //Git test merge
+
+//Git hub test merge
+
+
+
+
+//This line is only for merge test
+//Second line
+
+
+//Add first line for git merge testing
+//Add second line for git merge testing.
+
+
 
 ####################################################
 
@@ -45,11 +60,6 @@ ts = pd.Series(dataMaster['sp_500'].values, index = ran)
 print ts.head(12)
 
 print ts.dtypes
-
-
-/* Github Commit testing */
-//Testing for commit //
-//Github Commit in other computer//
 
 
 ####################################################
@@ -126,7 +136,7 @@ print results.summary()
 ##		FORECAST
 ##
 ####################################################
-//Git test line for commit
+//Testing Merge
 predVals = results.predict(239, 251, typ='levels')
 print predVals
 
