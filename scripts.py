@@ -33,7 +33,7 @@ print ts.head(12)
 
 print ts.dtypes
 
-/* Github Commit testing */
+
 ####################################################
 ##
 ##		DO EXPLORATORY ANALYSIS
@@ -102,8 +102,7 @@ mod = ARIMA(sp500_TR, order = (0, 1, 1), freq = 'M')
 results = mod.fit()
 print results.summary()
 
-//I added the following line only testing Gighub.
-//This line is also for Github Testing
+
 ####################################################
 ##
 ##		FORECAST
