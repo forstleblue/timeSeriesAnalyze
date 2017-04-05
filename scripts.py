@@ -3,7 +3,7 @@
 ##		IMPORT MODULES
 ##
 ####################################################
-
+###Add github merge test
 import pandas as pd
 import numpy as np
 import statsmodels.api as sm
