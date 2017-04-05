@@ -3,6 +3,22 @@
 ##		IMPORT MODULES
 ##
 ####################################################
+//Add New Line
+//New Line
+//This line is only for merge test
+//Second line
+//Git Second line
+//Git test merge
+//Git hub test merge
+//This line is only for merge test
+//Second line
+//Three line
+//Four line
+//Add first line for git merge testing
+//Add second line for git merge testing.
+//Last line of merge
+####################################################
+
 
 import pandas as pd
 import numpy as np
@@ -33,11 +49,11 @@ print ts.head(12)
 
 print ts.dtypes
 
-/* Github Commit testing */
+
 ####################################################
 ##
 ##		DO EXPLORATORY ANALYSIS
-##
+##//Explornation
 ####################################################
 
 plt.plot(ts)
@@ -102,14 +118,13 @@ mod = ARIMA(sp500_TR, order = (0, 1, 1), freq = 'M')
 results = mod.fit()
 print results.summary()
 
-//I added the following line only testing Gighub.
-//This line is also for Github Testing
+
 ####################################################
 ##
 ##		FORECAST
 ##
 ####################################################
-
+//Testing Merge
 predVals = results.predict(239, 251, typ='levels')
 print predVals
 
