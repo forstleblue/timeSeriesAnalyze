@@ -34,6 +34,8 @@ print ts.head(12)
 print ts.dtypes
 
 /* Github Commit testing */
+//Testing for commit //
+//Github Commit in other computer//
 ####################################################
 ##
 ##		DO EXPLORATORY ANALYSIS
