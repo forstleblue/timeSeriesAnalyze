@@ -17,9 +17,7 @@
 //Three line
 //Four line
 
-//Add first line for git merge testing
-//Add second line for git merge testing.
-//Last line of merge
+
 ####################################################
 
 //Git test merge
