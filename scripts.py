@@ -3,10 +3,25 @@
 ##		IMPORT MODULES
 ##
 ####################################################
+
+//Add New Line
+//New Line
+//This line is only for merge test
+//Second line
+//Git Second line
+//Git test merge
+//Git hub test merge
+
 //This line is only for merge test
 //Second line
 //Three line
 //Four line
+
+//Add first line for git merge testing
+//Add second line for git merge testing.
+//Last line of merge
+####################################################
+
 //Git test merge
 //Git hub test merge
 //Add first line for git merge testing
@@ -19,7 +34,12 @@
 //Git Second line
 ####################################################
 //New line
+<<<<<<< HEAD
 // Commit test
+=======
+
+
+>>>>>>> 5109ea24df3296d91cf1278f516a1854143e9b73
 import pandas as pd
 import numpy as np
 import statsmodels.api as sm
