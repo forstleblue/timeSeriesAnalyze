@@ -7,10 +7,6 @@
 //Add New Line
 //New Line
 //This line is only for merge test
-//Second line
-//Git Second line
-//Git test merge
-//Git hub test merge
 
 
 
