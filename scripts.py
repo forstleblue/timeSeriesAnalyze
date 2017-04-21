@@ -25,12 +25,7 @@
 //Git Second line
 ####################################################
 //New line
-<<<<<<< HEAD
-// Commit test
-=======
 
-
->>>>>>> 5109ea24df3296d91cf1278f516a1854143e9b73
 import pandas as pd
 import numpy as np
 import statsmodels.api as sm
