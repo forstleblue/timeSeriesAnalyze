@@ -20,10 +20,7 @@
 //Last line of merge
 //Add New Line
 //New Line
-//This line is only for merge test
-//Second line
-//Git Second line
-//New line
+
 
 import pandas as pd
 import numpy as np
